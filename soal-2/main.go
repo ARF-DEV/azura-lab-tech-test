@@ -40,7 +40,7 @@ func main() {
 
 	port := os.Getenv("PORT")
 	if port == "" {
-		log.Fatal("Error PORT is not found")
+		port = "8080"
 		return
 	}
 	log.Println("Server run on port ", port)
