@@ -1,6 +1,8 @@
 # How To run
-Soal-1 & Soal-3 => masuk ke dalam folder => go run main.go
-Soal-2 :
+### Soal-1 & Soal-3 :
+- masuk ke dalam folder 
+- go run main.go
+### Soal-2 :
 - Install Postgres
 - Buat database pada postgres
 - Set host, port, user, dan dbname pada main.go
